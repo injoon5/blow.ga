@@ -1,0 +1,13 @@
+{
+  "name": "blow.ga",
+  "short_name": "blow.ga",
+  "lang": "ko-KR",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#007eff",
+  "icons": [{
+    "src": "https://i.ibb.co/PxBkf6t/blokode512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
